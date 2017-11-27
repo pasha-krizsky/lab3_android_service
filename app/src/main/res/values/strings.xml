@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3_service</string>
+    <string name="button_start">Start Service</string>
+    <string name="button_stop">Stop Service</string>
+    <string name="button_send">Send</string>
+    <string name="text_view_message">message</string>
+</resources>
